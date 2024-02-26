@@ -1,4 +1,9 @@
-<h1>request-credit-system</h1>
+<h2>Projeto 2 -
+Documentando e Testando sua API Rest com Kotlin</h2>
+
+<h3>Objetivo:</h3> Criar documentação e testes para a API desenvolvida durante o curso.
+
+<h2>request-credit-system</h2>
 <p align="center">API Rest para um Sistema de Analise de Solicitação de Crédito</p>
 <p align="center">
      <a alt="Java">
@@ -66,4 +71,3 @@ Se possível:
 ⭐️ Star o projeto
 
 🐛 Encontrar e relatar issues
-
